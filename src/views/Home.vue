@@ -6,7 +6,7 @@
 
         <main class="main-content">
             <section class="model-section">
-                <ThreeDModel ref="model" />
+                <!-- <ThreeDModel ref="model" /> -->
             </section>
 
             <section class="text-section">
