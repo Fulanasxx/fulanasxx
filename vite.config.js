@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [vue()],
-  base: 'https://Fulanasxx/fulanasxx',
+  base: '/fulanasxx/', // Asegúrate de que el base apunte a tu repositorio en GitHub Pages
   assetsInclude: ['**/*.stl'],
   resolve: {
     alias: {

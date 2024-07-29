@@ -29,7 +29,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory(import.meta.env.BASE_URL),
+    history: createWebHistory('/fulanasxx/'), // Asegúrate de que el base URL sea correcto
     routes
 });
 
