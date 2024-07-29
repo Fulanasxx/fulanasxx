@@ -1,0 +1,193 @@
+2024-07-29 19:53:26 [INFO] AnycubicPhotonWorkshop start!
+2024-07-29 19:53:26 [INFO] argc:  2
+2024-07-29 19:53:26 [WARN] "C:/Program Files/AnycubicPhotonWorkshop"
+2024-07-29 19:53:26 [WARN] Successfully init crashpad
+2024-07-29 19:53:26 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-29 19:53:26 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-29 19:53:26 [INFO] ctk manager plugins:  "C:/Program Files/AnycubicPhotonWorkshop/plugins/"
+2024-07-29 19:53:26 [INFO] Load plugin org.commontk.eventadmin success.
+2024-07-29 19:53:26 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/splashwindow.dll"
+2024-07-29 19:53:26 [INFO] Install Plugin Success!
+2024-07-29 19:53:26 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 55 Regular L3" '
+2024-07-29 19:53:26 [WARN] Unable to enumerate family ' "Alibaba PuHuiTi 3.0 95 ExtraBold" '
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/printer.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [FATAL] readDataFromFile (C:/Program Files/AnycubicPhotonWorkshop/machine_type/Anycubic Photon Mono M7.pwsp) is error.
+2024-07-29 19:53:27 [FATAL] loadFactoryMachine factory market Anycubic Photon Mono M7 msg retcode -1, msg retmsg: 
+2024-07-29 19:53:27 [WARN] loadMachineResin currentPrinter(Anycubic Photon Mono X 6Ks) init success.
+2024-07-29 19:53:27 [INFO] loadMachineParamRange is success.
+2024-07-29 19:53:27 [INFO] loadMachineResinType is success.
+2024-07-29 19:53:27 [INFO] loadMachineResinName is success.
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/mainwindow.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [INFO] "current server is testserver. 0"
+2024-07-29 19:53:27 [INFO] QVariant(QByteArray, "mqtt.anycubic.com")
+2024-07-29 19:53:27 [INFO] QVariant(QByteArray, "mqtt-universe.anycubic.com")
+2024-07-29 19:53:27 [INFO] QVariant(QByteArray, "8883")
+2024-07-29 19:53:27 [INFO] QVariant(QByteArray, "8883")
+2024-07-29 19:53:27 [INFO] "environment_url is https://workbentch.s3.us-east-2.amazonaws.com/workshop/environment.ini"
+2024-07-29 19:53:27 [INFO] QmlFactory 0.083 s
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/autoupdater.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/gareport.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/accloud.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [WARN] void __cdecl ACCloudNetRequest::init(void), cn_server = mqtt.anycubic.com, cn_server_port = 8883, en_server = mqtt-universe.anycubic.com, en_server_port = 8883, url = https://cloud-universe.anycubic.com/p/p/workbench/api
+2024-07-29 19:53:27 [WARN] CountriesDataModel::setCurrCountryIdn, newCurrCountryIdn = CN
+2024-07-29 19:53:27 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-29 19:53:27 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-29 19:53:27 [WARN] ACCloudManager::ACCloudManager, cloud model, build_time = 2024-04-26 17:28:45, git_brance = feat/casdoor, git_hash = 6b20758, git_commit = 2024-04-26
+2024-07-29 19:53:27 [INFO] [Install Plugin] "C:/Program Files/AnycubicPhotonWorkshop/plugins/facegen.dll"
+2024-07-29 19:53:27 [INFO] Install Plugin Success!
+2024-07-29 19:53:27 [WARN] Translation::changedSystemLanguage, language = 0
+2024-07-29 19:53:27 [WARN] register  GizmoController
+2024-07-29 19:53:28 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-29 19:53:28 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-29 19:53:28 [INFO] uiState:  false
+2024-07-29 19:53:28 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:28 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:28 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:29 [WARN] xChanged 1
+2024-07-29 19:53:29 [INFO] event:  "splash_window_visible" data:  QVariant(bool, false) extentionData:  QVariant(Invalid)
+2024-07-29 19:53:29 [INFO] event:  "main_load" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-29 19:53:29 [INFO] event:  "main_language_changed" data:  QVariant(int, 0) extentionData:  QVariant(Invalid)
+2024-07-29 19:53:29 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-29 19:53:29 [INFO] uiState:  true
+2024-07-29 19:53:30 [WARN] creating renderer
+2024-07-29 19:53:30 [WARN] printer valid --:  97.92 61.2
+2024-07-29 19:53:30 [WARN] printer build --:  97.92 61.2
+2024-07-29 19:53:30 [WARN] deltaX -- :  0
+2024-07-29 19:53:30 [WARN] deltaY -- :  0
+2024-07-29 19:53:30 [WARN] machine boarder width 2-------------------- 
+2024-07-29 19:53:30 [WARN] create planar shadow node
+2024-07-29 19:53:30 [WARN] loadGizmoRotationHead OK 576
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home/ComputeBound
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home/BoundingSphere
+2024-07-29 19:53:30 [INFO]  camera_manipulator::home/udpate_view
+2024-07-29 19:53:31 [WARN] GL Verison:  0x7fff2ed19a50
+2024-07-29 19:53:31 [WARN] GL Renderer:  0x1867ffea020
+2024-07-29 19:53:31 [WARN] compile shader program ok
+2024-07-29 19:53:31 [WARN] compile shader program ok
+2024-07-29 19:53:31 [WARN] compile shader program ok
+2024-07-29 19:53:31 [WARN] AnyGizmos::Im3d_Init      LoadCompileShader Ok
+2024-07-29 19:53:31 [WARN] AnyGizmos::Im3d_Init   VAO release Ok
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [INFO] event:  "updater_init_compeleted" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [WARN] void __cdecl ACCloudNetRequest::getCountries(void)
+2024-07-29 19:53:31 [WARN] void __cdecl ACCloudNetRequest::getPrintCtrlCodeReasons(void)
+2024-07-29 19:53:31 [INFO] send post data success!
+2024-07-29 19:53:31 [INFO] event:  "accloud_start_init" data:  QVariant(int, 0) extentionData:  QVariant(int, 0)
+2024-07-29 19:53:31 [INFO] parseImportFiles model files: C:\Users\sergi\Desktop\fulanasxx\public\models\FULANAX3.stl
+2024-07-29 19:53:31 [INFO] parseImportFiles model files: C:\Users\sergi\Desktop\fulanasxx\public\models\FULANAX3.stl
+2024-07-29 19:53:31 [WARN]  - 1 ImportFilesDialog, importModelFiles file = C:\Users\sergi\Desktop\fulanasxx\public\models\FULANAX3.stl, modelQualityChecked = true
+2024-07-29 19:53:31 [INFO] "start check autoUpdater!"
+2024-07-29 19:53:31 [WARN] -slot_closeGizmoWhenLoadModel
+2024-07-29 19:53:31 [INFO] event:  "updater_check" data:  QVariant(Invalid) extentionData:  QVariant(Invalid)
+2024-07-29 19:53:31 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE8\xA5\xBF\xE7\x8F\xAD\xE7\x89\x99\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"AppStart\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"e5c4a905bcd568f8cc45cc496683f625\",\n    \"printerType\": \"\",\n    \"province\": \"Santa-Cruz-de-Tenerife\",\n    \"timestamp\": 1722275611,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:31 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:31 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] void __cdecl EventMiniHandlerCallback::event(const struct ReasonResponse *,unsigned int)
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:32 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:32 [INFO] uiState:  false
+2024-07-29 19:53:32 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-29 19:53:32 [INFO] uiState:  true
+2024-07-29 19:53:32 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-29 19:53:32 [INFO] "doReportImportModelResult!"
+2024-07-29 19:53:32 [INFO] event:  "ga_report" data:  QVariant(QByteArray, "{\n    \"business\": \"model_prepare\",\n    \"elementContent\": \"Import Files\",\n    \"elementType\": \"BUTTON\",\n    \"event\": \"ImportModelResult\",\n    \"function\": \"import_model\",\n    \"module\": \"menu_bar\",\n    \"printerType\": \"LCD\",\n    \"title\": \"\"\n}\n") extentionData:  QVariant(QByteArray, "{\n    \"importType\": \"4\",\n    \"modelInformation\": [\n        {\n            \"fileName\": \"FULANAX3\",\n            \"fileSize\": 186284,\n            \"fileType\": \"stl\",\n            \"isSuccess\": 0\n        }\n    ],\n    \"numberOfModel\": 1\n}\n")
+2024-07-29 19:53:32 [WARN] void __cdecl PrintersDataModel::onReasonResponse(const struct ReasonResponse *,int)
+count = 219
+2024-07-29 19:53:32 [WARN] gizmo emit sceneModelChanged
+2024-07-29 19:53:32 [INFO] uiState:  false
+2024-07-29 19:53:32 [WARN] enableMenuShortcut menushort cut: 8
+2024-07-29 19:53:32 [INFO] uiState:  true
+2024-07-29 19:53:32 [WARN] enableMenuShortcut menushort cut: 0
+2024-07-29 19:53:32 [INFO] "doReadMachineLcd setMachine Anycubic Photon Mono X 6Ks"
+2024-07-29 19:53:32 [INFO] sendData:  "{\n    \"appName\": \"AnycubicPhotonWorkshop_V3.3.2\",\n    \"appVersion\": \"v3.3.2\",\n    \"business\": \"\",\n    \"city\": \"0\",\n    \"country\": \"\xE8\xA5\xBF\xE7\x8F\xAD\xE7\x89\x99\",\n    \"elementContent\": \"\",\n    \"elementType\": \"\",\n    \"eventName\": \"ImportModelResult\",\n    \"function\": \"\",\n    \"isOverseasVersion\": true,\n    \"module\": \"\",\n    \"pcId\": \"e5c4a905bcd568f8cc45cc496683f625\",\n    \"printerType\": \"\",\n    \"province\": \"Santa-Cruz-de-Tenerife\",\n    \"timestamp\": 1722275612,\n    \"title\": \"\",\n    \"userId\": 0\n}\n"
+2024-07-29 19:53:32 [WARN] ctrl_select IS_PROPERTY_SELECTED1  true 1
+2024-07-29 19:53:32 [INFO] get_model_height() osg_model_group
+2024-07-29 19:53:33 [INFO] send post data success!
+2024-07-29 19:53:33 [INFO] send post data success!
+2024-07-29 19:53:33 [INFO] uiState:  false
+2024-07-29 19:53:33 [INFO] scene modifyed:  true
+2024-07-29 19:53:33 [WARN] QFSFileEngine::open: No file name specified
+2024-07-29 19:53:33 [WARN] Cannot open file '', because: No file name specified
+2024-07-29 19:53:33 [INFO] uiState:  false
+2024-07-29 19:53:35 [INFO] uiState:  false
+2024-07-29 19:53:35 [INFO] save support file is success!
+2024-07-29 19:53:35 [INFO] AnycubicPhotonWorkshop end!
+2024-07-29 19:53:36 [WARN] QThreadStorage: Thread 0x1867e8477f0 exited after QThreadStorage 7 destroyed
