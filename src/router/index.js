@@ -29,7 +29,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHistory('https://fulanasxx.github.io/fulanasxx/'), // Asegúrate de que el base URL sea correcto
+    history: createWebHistory('/fulanasxx/'), // Asegúrate de que el base URL sea correcto
     routes
 });
 
