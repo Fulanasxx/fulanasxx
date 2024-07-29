@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/fulanasxx/',
+  base: 'https://Fulanasxx/fulanasxx',
   assetsInclude: ['**/*.stl'],
   resolve: {
     alias: {
